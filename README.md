@@ -28,4 +28,4 @@ THEN I am presented with the last searched city forecast
 
 ### Link to Application
 
-![Weather App]()
+![Weather App](https://stephanie-hall.github.io/Server-Side-APIs-Weather-Dashboard/.)
