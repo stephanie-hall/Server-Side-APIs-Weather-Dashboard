@@ -24,8 +24,8 @@ THEN I am presented with the last searched city forecast
 
 ### Application Image
 
-![Weather App IMG](assets\ServerSideAPI.PNG)
+![image](assets\ServerSideAPI.PNG)
 
 ### Link to Application
 
-![Weather App](https://stephanie-hall.github.io/Server-Side-APIs-Weather-Dashboard/.)
+[Weather App](https://stephanie-hall.github.io/Server-Side-APIs-Weather-Dashboard/.)
