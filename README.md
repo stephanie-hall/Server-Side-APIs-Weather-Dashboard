@@ -24,7 +24,7 @@ THEN I am presented with the last searched city forecast
 
 ### Application Image
 
-![image](/ServerSideAPI.PNG)
+![image](/Assets/ServerSideAPI.PNG)
 
 ### Link to Application
 
